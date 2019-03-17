@@ -1,0 +1,9 @@
+li {
+	background-color: black;
+	color: white;
+}
+h1 {
+	box-sizing: border-box;
+	background-color: blue;
+	padding: 20px 20px 20px 20px;
+}
