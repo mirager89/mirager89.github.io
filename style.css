@@ -1,10 +1,16 @@
 
 body {
 	font-family: 'Roboto', sans-serif;
-	background-image: url("patt.png");
+	background-image: url("images/patt.png");
 }
 * {
 	box-sizing: border-box;
+}
+.as {
+	font-size: 150%;
+	padding-left: 20px;
+	padding-top: 20px;
+	color: white;
 }
 .container {
 	width: 1170px;
@@ -74,6 +80,9 @@ width: 50%;
     padding: 2px;
     
 }
+.ref {
+	margin-top: -50px;
+}
 .qwerty {
 	border:1px solid #2c71b8;
 	height: 20px;
@@ -82,14 +91,14 @@ width: 50%;
 .slider {
 	height: 400px;
 	width: 1800px;
-	background-color:black;
+	background-color: black;
 	border-bottom: 1px solid white;
 	border-top: 1px solid white;
 }
 .as {
 	width: 270px;
-	height: 850px;
-	background-color: rgba(225,225,225,0.75);
+	height: 880px;
+	background-color: rgba(225,225,225,0.25);
 	border-right: 1px solid white;
 	margin-left: 380px;
 
@@ -235,3 +244,18 @@ select {
 	height: 100px;
 	padding-top: 50px;
 }
+.as p {
+	padding:6px;
+}
+.as h1 {
+	font-size: 120%;
+	border:1px solid white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
+	width: 220px;
+	text-align: center;
+	background-color: #2c71b8;
+}
+Задание №386234
