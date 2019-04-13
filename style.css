@@ -1,7 +1,7 @@
 
 body {
 	font-family: 'Roboto', sans-serif;
-	background-image: url("images/patt.png");
+	background-image: url("patt.png");
 }
 * {
 	box-sizing: border-box;
